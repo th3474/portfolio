@@ -2,7 +2,7 @@
 
 [NYU Designathon 2025 Project - Peel](https://devpost.com/software/gaiago) - UX/UI design for a sustainability-themed app in NYU Design-a-thon 2025 by NYU's UXC Club
 
-[Parkinson Tracking Device]() - An embedded device that tracks Parkinson's tremors and dyskinesia symptoms
+[Parkinson Tracking Device](https://github.com/th3474/parkinson-embedded-project) - An embedded device that tracks Parkinson's tremors and dyskinesia symptoms
 
 [TinyTapeOut](https://github.com/th3474/tt09-array-multiplier) - Verilog Multiplier Array Custom Chip
 
